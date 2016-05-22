@@ -89,8 +89,8 @@ defined('EXIT__AUTO_MAX') OR define('EXIT__AUTO_MAX', 125); // highest automatic
  *全局常量
  */
 define( 'NET_DOMAIN', 'http://192.168.100.10:8081/api');
-define('DOMAIN', 'http://weixininter.34580.cn/SHWeixinData.asmx');
-define('SOURCEFROM', '4');
+define('DOMAIN', 'http://192.168.100.10:8081/api');
+ 
 
 
 define('SUCCESS', 200);
