@@ -5,9 +5,9 @@
 3.传参格式json字符串
 
 
-参数验证代码：
-参数验证条调用代码： /system/core/CodeIgniter.php  line：460左右
-参数代码位于/system/request目录
+参数验证：
+参数验证调用代码： /system/core/CodeIgniter.php  line：460左右
+参数验证代码位于：/system/request目录
 
 
 /*
